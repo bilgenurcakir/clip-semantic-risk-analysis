@@ -24,7 +24,3 @@ The final decision is based on the **relative margin**, allowing:
 - POTENTIALLY HARMFUL
 - AMBIGUOUS / CONTEXT-DEPENDENT
 
-## ▶️ Run
-```bash
-pip install -r requirements.txt
-python main.py
